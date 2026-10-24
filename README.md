@@ -1,0 +1,2 @@
+# SchoolIDSystem
+FOR CREATING BETTERSEED IDs
